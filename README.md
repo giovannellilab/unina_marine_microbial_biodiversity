@@ -1,5 +1,5 @@
 # <img src="https://dgiovannelli.github.io//images/logopic/giovannellilab.png" width="60 px"> Marine Microbial Biodiversity
-## Course material for the graduate course in "Marine Microbial Biodiversity" (6 CFU), part of the Master Degree program in Marine Biology and Aquaculture/Marine Resources Management at the University of Naples Federico II
+## Course material for the graduate course in "Marine Microbial Biodiversity" (6 CFU), part of the Master Degree program in Marine Biology and Aquaculture at the University of Naples Federico II
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-by.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![forthebadge](https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=BUILT+WITH&secondaryLabel=COFFEE&primaryBGColor=%237dc832&secondaryBGColor=%237b9759&primaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryTextColor=%23FFFFFF&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&secondaryIcon=coffeescript&secondaryIconColor=%23FFFFFF&secondaryIconSize=16&secondaryIconPosition=left)](https://forthebadge.com)
